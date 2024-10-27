@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Leo parsley
-- 👀 I’m a computer science student ready to make dreams happen. Join me in this journey and help me make the world greater.
+- 👀 I’m a computer science student ready to make dreams happen. 
 
 <!---
 parsletech/parsletech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
